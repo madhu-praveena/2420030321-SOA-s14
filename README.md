@@ -140,8 +140,9 @@ Record actual test results and attach screenshots under `docs/screenshots/`.
 
 | Name | Roll Number |
 |---|---|
-| Madhu Pravina | 24200303 |
-| Additional members | To be added |
+| Madhu Praveena | 2420030321 |
+| Hema Thulasi| 2420030699|
+| Ranan Magdala| 2420030744 |
 
 ## Project Documentation
 
